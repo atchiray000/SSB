@@ -1,0 +1,13 @@
+body {
+background-color: LemonChiffon;
+background-image: url("SSB logo.png");
+}
+h3 {
+font-family: "Times New Roman", Times, serif;
+}
+a:link {
+  background-color: orange;
+}
+li {
+font-size: 20px;
+}
